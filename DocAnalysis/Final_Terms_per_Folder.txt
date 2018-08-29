@@ -1,0 +1,16 @@
+
+C11: volcano | volcanic | eruption | Lebed | kilometre | 
+C10: forecaster | tropical storm | season | tropical | Irene | 
+C13: Trump | Kim Jong-un | Kim Jong Un | Mr. Kim | Kim Jong-il | 
+C12: wmd | WMD | iraqi | President Bush | arm control | 
+C15: Irma | Harvey | climate | climate change | Harvey Irma | 
+C14: predictive | analytic | predictive analytic | customer | model | 
+C1: airline | pilot | safety | civil Aeronautics | spare part | 
+C2: amphetamine | drug | border | police | tablet | 
+C3: crew | Navy | release | Hawaii | plane | 
+C4: disease | hoof | hoof mouth | agriculture | mouth disease | 
+C5: Tehran | Rafsanjani | uranium | IAEA | conversion | 
+C6: south korean | korean peninsula | Kim Tae-chung | north-south | unification | 
+C7: Mr. Takenaka | Takenaka | loan | mortgage | mortgage rate | 
+C8: spaceborne-sar | red tide | maritime | tide | ocean environment | 
+C9: russian Interior Ministry | religion | Interior Ministry | satanic sect | satanic | 
