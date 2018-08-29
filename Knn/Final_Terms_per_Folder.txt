@@ -1,0 +1,89 @@
+
+Document25: evacuee | alcohol | shelter | church | livestock | 
+Document69: Rafsanjani | Iran | big | nuclear | Tehran | 
+Document26: Bush | attack | Blair | Iraq | Bush Blair | 
+Document23: volcanic | area | volcano | cone | earth | 
+Document67: Iran | EU | nuclear | referral | analyst | 
+Document24: Lebed | Chechnya | Russia | thing | people | 
+Document68: Board | activity | Iran | nuclear material | eu-3 | 
+Document21: eruption | kilometre | ash | Kamchatka | volcano | 
+Document65: Iran | Tehran | resolution | IAEA | New York | 
+Document22: Montserrat | volcano | people | country | 
+Document66: facility | nuclear | iranian | nuclear facility | Iran | 
+Document63: Iran | enrichment | uranium | nuclear | Rafsanjani | 
+Document20: phenomenon | seismographic measurement | seismographic | measurement | ONEMI | 
+Document64: Iran | nuclear | EU | work | program | 
+Document61: Iran | country | 
+Document62: fuel | nuclear fuel | de-escalation | ministry | Russia | 
+Document60: Graefe zu Baringdorf | agriculture | cap | european | disease | 
+Document18: tropical depression | depression | Irene | tropical | mph | 
+Document19: center | Irene | tropical | mph | storm | 
+Document16: expect | Irene | move | forecaster | storm | 
+Document17: mile | kilometer | south | Bermuda | Irene | 
+Document14: hurricane | kph | season | storm | tropical storm | 
+Document58: disease | campaign | Dr. | 
+Document15: storm | wind | season | Irene | hurricane | 
+Document59: meat | disease | report | 
+Document12: kilometer | U.S. | gain strength | gain | Irene | 
+Document56: disease | village | Negev | pa | Galilee | 
+Document13: Irene | move | forecaster | storm | tropical | 
+Document57: vaccine | drug vaccine | drug | due | import | 
+Document10: Irene | kilometre | storm | strength | forecaster | 
+Document54: Navy | plane | Hawaii | crew | ribbon | 
+Document11: storm | Irene | today | mile | tropical | 
+Document55: disease | animal | Greece | disease report | return | 
+Document52: crew | public | chinese | crew hold | incident | 
+Document53: United States | China | crew | crew member | member | 
+Document50: amphetamine | seize | 800 kilogram | 800 | kilogram | 
+Document51: amphetamine | seize | 800 kilogram | 800 | kilogram | 
+Document49: drug | police | deputy | Amphetamines | deputy director | 
+Document47: 34 | kg | mainland | amphetamine | kg amphetamine | 
+Document48: amphetamine | burma | Thailand | border | opposite | 
+Document45: climate | climate change | change | Irma | bad | 
+Document46: pill | Ho Mong | border | Thai | amphetamine | 
+Document43: temperature | climate | storm | Hurricane | rain | 
+Document87: Egypt | group | religious | authority | concept | 
+Document44: Harvey Irma | man-made | Loris | global | climate | 
+Document88: parent | youth | add | religion | member | 
+Document41: customer | model | predictive | buy | product | 
+Document85: sea | tide | red | fish | red tide | 
+Document42: Atlantic | Atlantic hurricane | season | storm | hurricane | 
+Document86: letter | Baraq | cult | satanic cult | Qiryat Yam | 
+Document83: ship | ship operate | pass | jail | punishment | 
+Document40: datum | predictive | analytic | predictive analytic | model | 
+Document84: CGA | waste | oil | water | patrol | 
+Document81: ocean | ocean environment | environment | law | Zou Jiahua | 
+Document82: organic | offshore area | China offshore | area | offshore | 
+Document80: co-operation | ocean pollution | ocean | pollution | cooperate | 
+Document38: datum | crowd | predictive | datum source | analytic | 
+Document39: predictive | analytic | predictive analytic | predictive model | model | 
+Document36: Kim | Kim Jong Un | world | 
+Document37: Kim Jong-il | father | Kim Jong-un | brother | North Korea | 
+Document34: President Trump | President | Trump | war word | face consequence | 
+Document78: rate | home | source | loan | mortgage | 
+Document35: Mr | Kim | Trump | Mr Trump | Mr Kim | 
+Document79: co-operation | ocean pollution | ocean | pollution | cooperate | 
+Document32: coalition | strike | Saddam | Iraq | regime | 
+Document76: participant | victim | rate | quake-affected | affect | 
+Document33: Mr. Kim | Mr. | Kim | South Korea | Pyongyang | 
+Document77: Takenaka | Mr. Takenaka | Mr. | loan | bank | 
+Document30: state | nuclear | arm | Iran | control | 
+Document74: mortgage | job | Prodi | 5 percent | economy | 
+Document31: Kamel | defection | Ekeus | Mr. Ekeus | interrogation | 
+Document75: rate | 5 % | bank | mortgage | mortgage rate | 
+Document72: missile | Japan | attack | shoot | session | 
+Document73: cent | rate | loan | mortgage | bank | 
+Document70: nuclear | missile | Bush | system | treaty | 
+Document71: unification | South Korea | Kim Tae-chung | Japan | North Korea | 
+Document9: season | storm | forecaster | hurricane season | hurricane | 
+Document8: storm | Irene | Friday | mile | tropical | 
+Document7: expect | Irene | forecaster | hurricane | mph | 
+Document6: part | spare | spare part | investigation | suspect | 
+Document5: guideline | safety | safety guideline | airline | set | 
+Document4: ground | Pacific | Australia | grounding | Tonga | 
+Document3: police force | police | force | Liu Jianfeng | airline | 
+Document2: pilot | eat | association | Authority | pilot association | 
+Document1: jet | civil Aeronautics | airline | AeroRepublica | aviation | 
+Document29: wmd | Bush | weapon | find | President | 
+Document27: Iraq | iraqi | oil | war | Ritter | 
+Document28: cabinet | Iraq | Blair | minister | spokesman | 
