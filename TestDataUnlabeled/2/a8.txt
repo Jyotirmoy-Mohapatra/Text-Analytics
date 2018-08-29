@@ -1,0 +1,10 @@
+nsight, not hindsight is the essence of predictive analytics. How organizations instrument, capture, create  and use data to predict next steps/actions is fundamentally changing the dynamics of work, life and leisure.
+
+Analytics is the discovery and communication of meaningful patterns in data (corporate, product, channel, and customer). It’s not the data but the signals buried in and inferred from data. There are four distinct types of analytics:
+
+What happened, where and when – Descriptive Analytics
+Why did it happen – Diagnostic or Prescriptive Analytics
+What is likely to happen – Predictive Analytics
+Guided actions and steps – Machine Learning, AI and Cognitive Learning
+Conversational AI – Chatbots
+All of these need data.  Data is the new raw material. Cloud is the new pipeline. Machine Learning is the new refinery.  Digital use cases is the new experience frontier

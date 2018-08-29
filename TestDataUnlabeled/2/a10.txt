@@ -1,0 +1,8 @@
+Predictive modeling mathematically represents underlying relationships in historical data in order to explain the data and make predictions, forecasts or classifications about future events.  Example of predictive modeling, next best action (or offer) in e-commerce was covered in this post.
+
+Predictive models analyze current and historical data on individuals to produce metrics such as scores. These scores rank-order individuals by likely future performance, e.g., their likelihood of making credit payments on time, or of responding to a particular offer for services. Predictive models can also detect the likelihood of a transaction being fraudulent (Risk Detection). Predictive models are frequently operationalized in mission-critical transaction systems and drive decisions and actions in near real time. A number of analytic methodologies underlie solutions in this area including:
+
+Applications of both linear and nonlinear mathematical programming algorithms, in which one objective is optimized within a set of constraints,
+Advanced neural systems, which learn complex patterns from large data sets to predict the probability that a new individual will exhibit certain behaviors of business interest. Neural Networks (also known as Deep Learning) are biologically inspired machine learning models that are being used to achieve the recent record-breaking performance on speech recognition and visual object recognition.
+Statistical techniques for analysis and pattern detection within large datasets.
+Predictive models summarize large quantities of data to amplify its value.  The value chain for predictive modeling in a M2M scenario is shown below (source: Greenplum Blog). It’s all about having the right people and right models.

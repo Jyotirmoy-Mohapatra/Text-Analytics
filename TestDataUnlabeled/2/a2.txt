@@ -1,0 +1,6 @@
+Detecting fraud. Combining multiple analytics methods can improve pattern detection and prevent criminal behavior. As cybersecurity becomes a growing concern, high-performance behavioral analytics examines all actions on a network in real time to spot abnormalities that may indicate fraud, zero-day vulnerabilities and advanced persistent threats.
+
+Optimizing marketing campaigns. Predictive analytics are used to determine customer responses or purchases, as well as promote cross-sell opportunities. Predictive models help businesses attract, retain and grow their most profitable customers. 
+
+Predictive analytics is used in actuarial science,marketing, financial services, insurance, telecommunications, retail, travel, mobility[disambiguation needed], healthcare, child protection, pharmaceuticals, capacity planning[citation needed] and other fields.
+

@@ -1,0 +1,4 @@
+Predictive analytics software applications use variables that can be measured and analyzed to predict likely behavior by individuals, machinery or other entities. Predictive analytics encompasses a variety of statistical techniques from predictive modeling, machine learning, and data mining that analyze current and historical facts to make predictions about future or otherwise unknown events.
+Predictive analytics is used in actuarial science,marketing, financial services, insurance, telecommunications, retail, travel, mobility[disambiguation needed], healthcare, child protection, pharmaceuticals, capacity planning[citation needed] and other fields.
+
+One of the best-known applications is credit scoring,which is used throughout financial services. Scoring models process a customer's credit history, loan application, customer data, etc., in order to rank-order individuals by their likelihood of making future credit payments on time.
